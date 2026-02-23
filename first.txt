@@ -4,6 +4,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("updated remotely!");
         
+        System.out.println("My local change");
     }
 
 }
